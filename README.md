@@ -1,6 +1,6 @@
 # CET376 Fragment Finder
  
-Arcade racing game with an adaptive difficulty system
+Vertical slice of a 3D platforming collectathon. Collect as many fragments as possible while enemy factions try to stop you.
 
 ---
 ## Controls
